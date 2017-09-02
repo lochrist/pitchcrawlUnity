@@ -1,0 +1,43 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/RPGDB/Abilities/CollisionAbility.cs">
+    <Files>
+      <File FileName="Assets/Scripts/Dungeons/BossSpawnPoint.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/Actions/MoveAction.cs" Line="65" Column="17" />
+      <File FileName="Assets/Scripts/RPGDB/Effects/AttackModifierEffect.cs" Line="49" Column="32" />
+      <File FileName="Assets/Scripts/RPGDB/Effects/DamageEffect.cs" Line="26" Column="20" />
+      <File FileName="Assets/Scripts/Core/GameManager.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/Core/PitchCharacter.cs" Line="336" Column="14" />
+      <File FileName="Assets/Scripts/RPGDB/EffectDescriptor.cs" Line="37" Column="1" />
+      <File FileName="Assets/Scripts/RPGDB/AbilityContainer.cs" Line="45" Column="22" />
+      <File FileName="Assets/Scripts/RPGDB/Item.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/RPGDB/Skill.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/RPGDB/AbilityDescriptor.cs" Line="38" Column="7" />
+      <File FileName="Assets/Scripts/RPGDB/Effects/ArmorModifierEffect.cs" Line="4" Column="49" />
+      <File FileName="Assets/Scripts/RPGDB/Effects/AttributeModifierEffect.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/RPGDB/Effects/DamageModifierEffect.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/RPGDB/Effects/DamageSensitivityEffect.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/RPGDB/Effects/StatusEffect.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/RPGDB/Abilities/MeleeAbility.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/Core/Hero.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/Core/Monster.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/Core/Prop.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/Core/Surface.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/Actions/MeleeAction.cs" Line="66" Column="30" />
+      <File FileName="Assets/Scripts/Actions/MultiAction.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/RPGDB/Abilities/AttackAbility.cs" Line="6" Column="1" />
+      <File FileName="Assets/Scripts/RPGDB/Abilities/CollisionAbility.cs" Line="31" Column="59" />
+      <File FileName="Assets/Scripts/RPGDB/Abilities/RangedAbility.cs" Line="4" Column="14" />
+      <File FileName="Assets/Scripts/Actions/RangedAction.cs" Line="154" Column="17" />
+      <File FileName="Assets/Scripts/Actions/BaseAction.cs" Line="22" Column="46" />
+      <File FileName="Assets/Scripts/Actions/SelectionAction.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/Actions/Helpers/FlickHelper.cs" Line="187" Column="50" />
+      <File FileName="Assets/Scripts/Actions/Helpers/SlingHelper.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/Actions/Helpers/PlaceItemHelper.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

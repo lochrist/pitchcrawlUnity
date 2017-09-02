@@ -1,0 +1,71 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f905d12a1c093c74096de9e0c48d6d3d, type: 3}
+  m_Name: Aura Of Pain
+  m_EditorClassIdentifier: 
+  icon: {fileID: 2800000, guid: 7bb9dadd2444bf3439822eed5645b2a0, type: 3}
+  traits: []
+  requirements: []
+  abilities:
+  - {fileID: 11400002}
+  usageType: 1
+  maxNbOfUses: 0
+  nbOfUses: 0
+  destroyOnLastUse: 0
+  focusCost: 0
+  xpValue: 0
+--- !u!114 &11400002
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b52a129d7bcdf874eae59c77faac364a, type: 3}
+  m_Name: Aura
+  m_EditorClassIdentifier: 
+  abilityType: 3
+  container: {fileID: 0}
+  icon: {fileID: 0}
+  usageType: 1
+  nbActivation: 1
+  effects:
+  - {fileID: 11400004}
+  auraRadius: 1
+  auraPrefab: {fileID: 100000, guid: fce80980173cbbf41af6a9fe5eb26ff6, type: 2}
+  handler: {fileID: 0}
+--- !u!114 &11400004
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 77f5a811593ace647aedd4be241e5094, type: 3}
+  m_Name: Damage
+  m_EditorClassIdentifier: 
+  effectType: 0
+  validTarget: 1
+  applyEffectOn: 0
+  aoeRadius: 0
+  durationType: 0
+  maxDuration: 0
+  duration: 0
+  specialFXPrefab: {fileID: 0}
+  specialFXOffset: {x: 0, y: 0, z: 0}
+  specialFXRotation: {x: 70, y: 0, z: 0}
+  modifierType: 0
+  dmg: 1
+  damageType: 0
+  ignoreArmor: 1
+  ignoreDmgModifier: 1
